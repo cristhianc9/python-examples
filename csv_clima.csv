@@ -1,0 +1,16 @@
+﻿Pronostico,Temperatura,Humedad,Ventoso,Jugar
+soleado,85,85,FALSO,NO
+soleado,80,90,VERDADERO,NO
+nublado,83,86,FALSO,SI
+lluvioso,70,96,FALSO,SI
+lluvioso,68,80,FALSO,SI
+lluvioso,65,70,VERDADERO,NO
+nublado,64,65,VERDADERO,SI
+soleado,72,95,FALSO,NO
+soleado,69,70,FALSO,SI
+lluvioso,75,80,FALSO,SI
+soleado,75,70,VERDADERO,SI
+nublado,72,90,VERDADERO,SI
+nublado,81,75,FALSO,SI
+lluvioso,71,91,VERDADERO,NO
+lluvioso,71,91,VERDADERO,NO
