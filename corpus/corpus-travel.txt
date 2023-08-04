@@ -1,0 +1,7 @@
+[
+    [('Quiero', 'vmip1s0'), ('2', 'z'), ('billetes', 'ncfp000'), ('de', 'sps00'), ('Madrid', 'np000g0'), ('a', 'sps00'), ('Frankfurt', 'np000g0'), ('en', 'sps00'), ('Septiembre', 'w')], 
+    [('Necesito', 'vmip1s0'), ('comprar', 'vmip1s0'), ('un', 'di0ms0'), ('billete', 'ncms000'), ('a', 'sps00'), ('Madrid', 'np000g0'), ('el', 'da0ms0'), ('5', 'w'), ('de', 'sps00'), ('Agosto', 'w')], 
+    [('Comprar', 'vmn0000'), ('billete', 'ncms000'), ('Barcelona', 'ncms000'), ('a', 'sps00'), ('Roma', 'np000g0'), ('para', 'di0ms0'), ('el', 'da0ms0'), ('25', 'w'), ('de', 'sps00'), ('agosto', 'w'), ('con', 'sps00'), ('Iberia', 'npcso00')], 
+    [('Billete', 'ncms000'), ('barato', 'aq0ms0'), ('AirEuropa', 'npcso00'), ('de', 'sps00'), ('Madrid', 'np000g0'), ('a', 'sps00'), ('Sevilla', 'np000g0')],
+    [('Quiero', 'vmip1s0'), ('ir', 'vmip1s0'), ('a', 'sps00'), ('Roma', 'np000g0'), ('con', 'sps00'), ('Lufthansa', 'npcso00')]
+]
